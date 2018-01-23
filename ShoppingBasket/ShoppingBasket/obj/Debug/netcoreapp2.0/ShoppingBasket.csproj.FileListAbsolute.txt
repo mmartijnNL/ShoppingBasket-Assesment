@@ -1,0 +1,11 @@
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp2.0\ShoppingBasket.deps.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp2.0\ShoppingBasket.runtimeconfig.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp2.0\ShoppingBasket.runtimeconfig.dev.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp2.0\ShoppingBasket.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.csprojResolveAssemblyReference.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.csproj.CoreCompileInputs.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.AssemblyInfo.cs
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp2.0\ShoppingBasket.pdb
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp2.0\ShoppingBasket.pdb

@@ -1,0 +1,16 @@
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.AssemblyInfoInputs.cache
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.AssemblyInfo.cs
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.Tests.deps.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.Tests.runtimeconfig.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.Tests.runtimeconfig.dev.json
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.Tests.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.Tests.pdb
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\bin\Debug\netcoreapp2.0\ShoppingBasket.pdb
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.dll
+C:\Users\Martijn\source\repos\ShoppingBasket\ShoppingBasket.Tests\obj\Debug\netcoreapp2.0\ShoppingBasket.Tests.pdb
